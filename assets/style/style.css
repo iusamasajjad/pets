@@ -30,7 +30,7 @@ body {
   margin: 0 auto;
 }
 .herobg {
-  background-image: url("/assets/images/mainbg.png");
+  background-image: url("../images/mainbg.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
